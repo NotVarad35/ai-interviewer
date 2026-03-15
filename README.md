@@ -79,12 +79,6 @@ source env/bin/activate
 
 ```bash
 pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-Or manually install the required packages:
-
-```bash
 pip install SpeechRecognition
 pip install faster-whisper
 pip install google-genai
