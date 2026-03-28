@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/NotVarad35/ai-interviewer?style=social)](https://github.com/NotVarad35/ai-interviewer)
 
 An intelligent, voice-activated technical interview simulator powered by AI. This application combines local audio processing, offline text-to-speech, and the Google Gemini API to deliver realistic, scenario-based DevOps and technical interviews with automated grading and detailed performance evaluation.
 
