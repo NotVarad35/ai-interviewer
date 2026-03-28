@@ -5,7 +5,6 @@
 
 An intelligent, voice-activated technical interview simulator powered by AI. This application combines local audio processing, offline text-to-speech, and the Google Gemini API to deliver realistic, scenario-based DevOps and technical interviews with automated grading and detailed performance evaluation.
 
-![Application Screenshot](assets/screenshot.png)
 
 ---
 
